@@ -1,12 +1,12 @@
 <h2>A simple Chat Application using socket programming.</h2>
 
-<h3>Server Interface</h3>
-https://github.com/user-attachments/assets/0c0d6a26-de4f-4ea3-bc6e-5a5013f8ddee
+Server Interface
+![chat1](https://github.com/user-attachments/assets/cc69f177-b4fa-43af-85d9-765acfe9f1d5)
 
-<h3>Client Interface-1</h3>
-https://github.com/user-attachments/assets/44358cb4-11f7-4ba0-9d27-a1ae010b1874
+Client Interface-1
+![chat2](https://github.com/user-attachments/assets/24f63874-df11-4090-a8f2-53d3adf6b117)
 
-<h3>Client Interface-2</h3>
-https://github.com/user-attachments/assets/751dbdfa-d875-434c-bcd9-f1e3ac9e3c26
+Client Interface-2
+![chat3](https://github.com/user-attachments/assets/70a4bcb1-ff73-47b4-a510-799bd9ef1566)
 
 
